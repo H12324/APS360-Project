@@ -17,3 +17,6 @@ Use APS360_Final for in Colab to replicate results!
 
 Hyperparamater Testing Notebook 
 https://drive.google.com/file/d/1w747clyX6h948jA74_4gKZK5-R6fBJBc/view?usp=sharing
+
+Test results:
+https://colab.research.google.com/drive/10HdZ-0Ep1f0jkc0knoUAnrLq9j9yB0rH?authuser=8#scrollTo=N8xyG11z-Tih
