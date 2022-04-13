@@ -14,3 +14,6 @@ Several helper functions such as quick_qualitative, to_rgb and various others ca
 We achieve a PSNR of approximately 20.
 
 Use APS360_Final for in Colab to replicate results! 
+
+Hyperparamater Testing Notebook 
+https://drive.google.com/file/d/1w747clyX6h948jA74_4gKZK5-R6fBJBc/view?usp=sharing
